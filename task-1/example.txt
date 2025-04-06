@@ -1,0 +1,2 @@
+Hello Sir!, I'm Aayush Singh and i am a DevOps and cloud computing engineer.
+ I know about Python, linux, scripting, aws, jenkins, github, etc.
